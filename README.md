@@ -12,7 +12,8 @@ this is Abstract. See [Demp](https://www.google.com)
 $ git clone addr
 $ cd repo
 $ pip install -r requirements.txt
-$ python main.py'''
+$ python main.py
+'''
 
 ## Installation
 There is no need to install
