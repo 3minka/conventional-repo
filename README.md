@@ -8,12 +8,12 @@ this is Abstract. See [Demp](https://www.google.com)
 - opencv 0.99.0
 
 ## How to start
-'''bash
+```shell
 $ git clone addr
 $ cd repo
 $ pip install -r requirements.txt
 $ python main.py
-'''
+```
 
 ## Installation
 There is no need to install
