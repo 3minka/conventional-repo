@@ -8,7 +8,7 @@ this is Abstract. See [Demp](https://www.google.com)
 - opencv 0.99.0
 
 ## How to start
-'''Shell
+'''bash
 $ git clone addr
 $ cd repo
 $ pip install -r requirements.txt
